@@ -1,0 +1,12 @@
+pandas
+pytest
+pytest-cov
+pyspark
+openai
+pycobertura
+scikit-learn
+numpy
+gitpython
+statsmodels
+lightgbm==3.2.1
+pyarrow
